@@ -1,0 +1,15 @@
+1.  pwd: pwd is used to print the working directory
+2   vi: It is a text editor.
+3. 	touch: it is used to changge the timestamps on existing files and directories.
+4.	mkdir: It is used to make new directory.
+5. 	rm: It is used to remove files and directories.
+6.	ls: It is used for list files in unix.
+7. 	echo: It is used to write its arguments to standard output.
+8.	cat: It is used concatenate files and also create single or multiple files and view content of file.
+9. 	who: It displays who logged on to the system.
+10. cd: It is used to change current directory.
+11. date: It is used to print out or change the value of system's time and date information. 
+12.	cal: It is used to display the calendar.
+13. mv: That moves one or more files or directories from one place to another.
+14. cp: It used to copy files and directories.
+15. which: it is used to locate executables in the system.
